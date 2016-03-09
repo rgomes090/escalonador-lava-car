@@ -5,7 +5,7 @@ defmodule Fila do
   end
 
   def remove(queue) do
-    tail(queue)
+    # tail(queue)
   end
 
 end
